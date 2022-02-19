@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96405648841",
+    "project_id": "assignment-easypg",
+    "storage_bucket": "assignment-easypg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96405648841:android:0d2f692bfe08ab6dc4e418",
+        "android_client_info": {
+          "package_name": "com.example.assignmenteasypg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96405648841-slus52mvtu5kln40i7iv73tsd7c389g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXN85GDvxBgIWnwE6tBdU9tLxvxudldn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96405648841-slus52mvtu5kln40i7iv73tsd7c389g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
